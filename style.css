@@ -52,12 +52,13 @@ font-size: 20px;
 .pad6{
     background: #0c48eb;
 }
+
 .visual > div {
     position: absolute;
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    bottom: 0%;
+    bottom: 40%;
     left: 20%;
     bottom: 0%;
     
@@ -85,7 +86,7 @@ font-size: 20px;
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    bottom: 0%;
+    bottom: 50%;
     left: 20%;
     
 
